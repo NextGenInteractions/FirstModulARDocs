@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['decode_5fopus_5fto_5fwav_0',['decode_opus_to_wav',['../namespaceaudioserver.html#ae57839d673b054911f18b348bf6de451',1,'audioserver']]],
+  ['defaultparamsstrategytest_1',['DefaultParamsStrategyTest',['../classWhisper_1_1Tests_1_1WhisperParamsTests.html#a6d7ea19a4f219a46b5a25af8dfd27b98',1,'Whisper::Tests::WhisperParamsTests']]],
+  ['dequeue_2',['Dequeue',['../classFMAR_1_1Audio_1_1MicrophoneCapturer_1_1CircularBuffer.html#a5d73153a255d1c15e7ee02341078bea8',1,'FMAR::Audio::MicrophoneCapturer::CircularBuffer']]],
+  ['dequeuearray_3',['DequeueArray',['../classFMAR_1_1Audio_1_1MicrophoneCapturer_1_1CircularBuffer.html#a842b24a70df92a5bfc433ece9e57bf00',1,'FMAR::Audio::MicrophoneCapturer::CircularBuffer']]],
+  ['destroyanchor_4',['DestroyAnchor',['../classAnchorProvider.html#ab3f6c5e661b0d6e613ba0b1894551c55',1,'AnchorProvider.DestroyAnchor()'],['../classMLAnchorProvider.html#a43746823102660968b7e6957d64248fa',1,'MLAnchorProvider.DestroyAnchor()'],['../classMockAnchorProvider.html#a9000054bb3bac15e968291a2af91ad70',1,'MockAnchorProvider.DestroyAnchor()'],['../classOVRAnchorProvider.html#af0af39c776f463e8f723075924d9c8b7',1,'OVRAnchorProvider.DestroyAnchor()']]],
+  ['destroypoiserverrpc_5',['DestroyPoiServerRpc',['../classFMAR_1_1Internal_1_1PointsOfInterest_1_1PointOfInterestManager.html#a1cc2f09752f0803c1395c9a772586456',1,'FMAR::Internal::PointsOfInterest::PointOfInterestManager']]],
+  ['detachfromcontainer_6',['DetachFromContainer',['../classFMAR_1_1UI_1_1Widgets_1_1Widget.html#a9af235b938fef15a63e92e030f3aa6ba',1,'FMAR::UI::Widgets::Widget']]],
+  ['detachwidget_7',['DetachWidget',['../classFMAR_1_1UI_1_1Widgets_1_1FloatingDisplay.html#adf6c82b2bd463c48d656db87bf8ca017',1,'FMAR.UI.Widgets.FloatingDisplay.DetachWidget()'],['../classFMAR_1_1UI_1_1Widgets_1_1GridSlot.html#a0abab980b78996bc6b3da8953335ac18',1,'FMAR.UI.Widgets.GridSlot.DetachWidget()'],['../classFMAR_1_1UI_1_1Widgets_1_1TabbedDisplaySlot.html#a76cdf89086a0b39c7ec0940189a17474',1,'FMAR.UI.Widgets.TabbedDisplaySlot.DetachWidget()'],['../classFMAR_1_1UI_1_1Widgets_1_1WidgetContainer.html#a76e63d72bed82b4ca0f66aeb968bdfd3',1,'FMAR.UI.Widgets.WidgetContainer.DetachWidget()']]],
+  ['device_8',['Device',['../classFMAR_1_1XRProviders_1_1UnityXR_1_1UnityXrDeviceManager_1_1Device.html#aab93a489820bf3a25233b70f69a7d675',1,'FMAR::XRProviders::UnityXR::UnityXrDeviceManager::Device']]],
+  ['disable_9',['Disable',['../classFMAR_1_1UI_1_1Indicator_1_1PeripheralIndicator.html#a35323eed99ebcb24ffe0b038d7a36fcf',1,'FMAR::UI::Indicator::PeripheralIndicator']]],
+  ['dismiss_10',['Dismiss',['../classFMAR_1_1Internal_1_1PointsOfInterest_1_1PointOfInterestPlacement.html#ab23b17013edf6703cf2a3f8ac30afa7c',1,'FMAR::Internal::PointsOfInterest::PointOfInterestPlacement']]],
+  ['displaymessage_11',['DisplayMessage',['../classFMAR_1_1UI_1_1BuddyHUD_1_1SubtitleDisplay.html#a4803b31d9842c3fec5cee55b8a6f3788',1,'FMAR::UI::BuddyHUD::SubtitleDisplay']]],
+  ['displaystack_12',['DisplayStack',['../classFMAR_1_1UI_1_1Widgets_1_1Procedures_1_1Hierarchy.html#a6940df712033e2a5b05afbf2ccb1b053',1,'FMAR::UI::Widgets::Procedures::Hierarchy']]],
+  ['dispose_13',['Dispose',['../classFMAR_1_1ImageProcessing_1_1ObjectDetection_1_1PythonYolo.html#a656d48e7f5c15e374e73b83e1f158586',1,'FMAR::ImageProcessing::ObjectDetection::PythonYolo']]],
+  ['doublelist_14',['DoubleList',['../classDoubleList.html#a9bea410baf75081ead09cf6e2cbacf5c',1,'DoubleList.DoubleList()'],['../classDoubleList.html#aeab98f44f6c33c4f22521ffe12d1b8aa',1,'DoubleList.DoubleList(int capacity)']]],
+  ['draw_15',['Draw',['../classFMAR_1_1Core_1_1CommonHand.html#a3c2340c33def874f4dc081315748184c',1,'FMAR.Core.CommonHand.Draw()'],['../classFMAR_1_1Core_1_1Controller.html#a0f59683c0873614d81ded5325d18350e',1,'FMAR.Core.Controller.Draw()']]]
+];

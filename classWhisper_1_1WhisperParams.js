@@ -1,0 +1,26 @@
+var classWhisper_1_1WhisperParams =
+[
+    [ "AudioCtx", "classWhisper_1_1WhisperParams.html#a75f9040494a95b5cf41e0fa35be82dbe", null ],
+    [ "DurationMs", "classWhisper_1_1WhisperParams.html#a47cd27c946e7164d30e399739b362581", null ],
+    [ "EnableTokens", "classWhisper_1_1WhisperParams.html#adaebbbe7562c756b96eb4f5577b03dbc", null ],
+    [ "InitialPrompt", "classWhisper_1_1WhisperParams.html#ab039b12a510e21d218c386747e6a6308", null ],
+    [ "Language", "classWhisper_1_1WhisperParams.html#aa457839df740132553efcec5eb995d7d", null ],
+    [ "MaxTextContextCount", "classWhisper_1_1WhisperParams.html#aa8d397e46da4e1a809322798adc4e679", null ],
+    [ "NativeParams", "classWhisper_1_1WhisperParams.html#a391b7ac21141f555eafbab367806ce48", null ],
+    [ "NewSegmentCallback", "classWhisper_1_1WhisperParams.html#a49c29d1aadc77c2d662dcaf700c1f8de", null ],
+    [ "NewSegmentCallbackUserData", "classWhisper_1_1WhisperParams.html#a5f27e9322571dcc4f7008476910bcbfa", null ],
+    [ "NoContext", "classWhisper_1_1WhisperParams.html#addc5b99a5aff31a8c25a0196133b3810", null ],
+    [ "OffsetMs", "classWhisper_1_1WhisperParams.html#a0ac183399179ba3da0f9964873e7e3de", null ],
+    [ "PrintProgress", "classWhisper_1_1WhisperParams.html#a31555ac6f582b3b45a3fc13f2d8ce361", null ],
+    [ "PrintRealtime", "classWhisper_1_1WhisperParams.html#a21ed3979c6b1f1c7f4f7005687ff8d2c", null ],
+    [ "PrintSpecial", "classWhisper_1_1WhisperParams.html#a2bf601b0375ee9f1d83705c42f3dd78c", null ],
+    [ "PrintTimestamps", "classWhisper_1_1WhisperParams.html#ac2ce589902897abba8e8fe6aa6fdef17", null ],
+    [ "ProgressCallback", "classWhisper_1_1WhisperParams.html#ac02a9ee5b6ce6c1d59ef2465dc4cdae6", null ],
+    [ "ProgressCallbackUserData", "classWhisper_1_1WhisperParams.html#ab396ba5709ccc1b8b60a2ff013f5029f", null ],
+    [ "SingleSegment", "classWhisper_1_1WhisperParams.html#a25f7475c761e7bd95a0c82b1478e25d5", null ],
+    [ "SpeedUp", "classWhisper_1_1WhisperParams.html#a83b323a3eab0974a9c2b6a8001879682", null ],
+    [ "Strategy", "classWhisper_1_1WhisperParams.html#ac1cf7f671e779577226e8367ad3fa5e7", null ],
+    [ "ThreadsCount", "classWhisper_1_1WhisperParams.html#a553b77a5924130c48ab6feae2c94a955", null ],
+    [ "TokenTimestamps", "classWhisper_1_1WhisperParams.html#a157f3ebaec11cc31843186d5eb1c5edb", null ],
+    [ "Translate", "classWhisper_1_1WhisperParams.html#a67d7281e109498a3cf084b4771ac2cea", null ]
+];

@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['onbaseprocedurechanged_0',['OnBaseProcedureChanged',['../classFMAR_1_1Internal_1_1Procedures_1_1ProcedureManager.html#a6f5a1efbb4b89774402f3455c6ec814f',1,'FMAR::Internal::Procedures::ProcedureManager']]],
+  ['onchunkready_1',['OnChunkReady',['../classWhisper_1_1Utils_1_1MicrophoneRecord.html#ac0a62e6c43e85b63e1d4dd1c9098e78a',1,'Whisper::Utils::MicrophoneRecord']]],
+  ['onclientinstanceschanged_2',['OnClientInstancesChanged',['../classFMAR_1_1Comms_1_1Air_1_1AirManager.html#a400d78a6829ff25d1e57ef6f0c72e1b8',1,'FMAR.Comms.Air.AirManager.OnClientInstancesChanged'],['../classFMAR_1_1Comms_1_1Vitals_1_1VitalsManager.html#ac9642b58e1d338ecdb9fd4fe89a7816e',1,'FMAR.Comms.Vitals.VitalsManager.OnClientInstancesChanged']]],
+  ['ondeviceadded_3',['OnDeviceAdded',['../classFMAR_1_1XRProviders_1_1UnityXR_1_1UnityXrDeviceManager.html#ae1aa952e482f37f59da8c3120dcad42e',1,'FMAR::XRProviders::UnityXR::UnityXrDeviceManager']]],
+  ['ondeviceremoved_4',['OnDeviceRemoved',['../classFMAR_1_1XRProviders_1_1UnityXR_1_1UnityXrDeviceManager.html#a887ee8c9090a55356e105cc850423535',1,'FMAR::XRProviders::UnityXR::UnityXrDeviceManager']]],
+  ['ongridslotinit_5',['OnGridSlotInit',['../classFMAR_1_1UI_1_1Widgets_1_1GridSlot.html#a870d7d92e2de3f6f762697d6bc8905b1',1,'FMAR::UI::Widgets::GridSlot']]],
+  ['oninit_6',['OnInit',['../classFMAR_1_1UI_1_1Widgets_1_1WidgetContainer.html#a498d06151c22c991f787c8c4eea0aef8',1,'FMAR::UI::Widgets::WidgetContainer']]],
+  ['onnewnotification_7',['OnNewNotification',['../classFMAR_1_1Internal_1_1Notifications_1_1ClientNotifications.html#a6c81fd4fb3c9b5e3868cdb64b12dc094',1,'FMAR::Internal::Notifications::ClientNotifications']]],
+  ['onnewsegment_8',['OnNewSegment',['../classWhisper_1_1WhisperManager.html#a32c98a7f2eada1a02e09958c425fa0f6',1,'Whisper.WhisperManager.OnNewSegment'],['../classWhisper_1_1WhisperWrapper.html#ad9935b5878f014c54a610e97ca9b8fa5',1,'Whisper.WhisperWrapper.OnNewSegment']]],
+  ['onnotificationschanged_9',['OnNotificationsChanged',['../classFMAR_1_1Internal_1_1Notifications_1_1ClientNotifications.html#a5f51f5422c06af9031a8e6f29a3cda09',1,'FMAR::Internal::Notifications::ClientNotifications']]],
+  ['onpoischanged_10',['OnPoisChanged',['../classFMAR_1_1Internal_1_1PointsOfInterest_1_1PointOfInterestManager.html#a061e234be06f217fa175ddea9a3da878',1,'FMAR::Internal::PointsOfInterest::PointOfInterestManager']]],
+  ['onprocedurechanged_11',['OnProcedureChanged',['../classFMAR_1_1Internal_1_1Procedures_1_1ProcedureManager.html#aa187122527ff84d634215dc9f0660674',1,'FMAR::Internal::Procedures::ProcedureManager']]],
+  ['onprocedureended_12',['OnProcedureEnded',['../classFMAR_1_1Internal_1_1Procedures_1_1ProcedureManager.html#a61acd777b04e89de7eb495230b556236',1,'FMAR::Internal::Procedures::ProcedureManager']]],
+  ['onprogress_13',['OnProgress',['../classWhisper_1_1WhisperManager.html#aec544cc4e724092313efe34ca23c987a',1,'Whisper.WhisperManager.OnProgress'],['../classWhisper_1_1WhisperWrapper.html#a16ce7d87eba63deda143c1716ef43f88',1,'Whisper.WhisperWrapper.OnProgress']]],
+  ['onrecordstop_14',['OnRecordStop',['../classWhisper_1_1Utils_1_1MicrophoneRecord.html#a19c88ad5788a87493b4e05c0ce1c0c8f',1,'Whisper::Utils::MicrophoneRecord']]],
+  ['onresultupdated_15',['OnResultUpdated',['../classWhisper_1_1WhisperStream.html#a9a56c12547b29e088ce8addf4df2778a',1,'Whisper::WhisperStream']]],
+  ['onsegmentfinished_16',['OnSegmentFinished',['../classWhisper_1_1WhisperStream.html#a2d3d6bdabcb6151689eca93fec2fd65f',1,'Whisper::WhisperStream']]],
+  ['onsegmentupdated_17',['OnSegmentUpdated',['../classWhisper_1_1WhisperStream.html#abdb1db454a3bc9c3c7bd2756d1271c57',1,'Whisper::WhisperStream']]],
+  ['onserverlistloaded_18',['OnServerListLoaded',['../classFMAR_1_1Networking_1_1ServerManager.html#a7fe70889dfd90260173fd2a38b18646c',1,'FMAR::Networking::ServerManager']]],
+  ['onstepchanged_19',['OnStepChanged',['../classFMAR_1_1Internal_1_1Procedures_1_1ProcedureManager.html#a7765fc0eb6a911dd537a80796855c39d',1,'FMAR::Internal::Procedures::ProcedureManager']]],
+  ['onstreamfinished_20',['OnStreamFinished',['../classWhisper_1_1WhisperStream.html#a1993469c2124b56c95f50467e4bacf70',1,'Whisper::WhisperStream']]],
+  ['onvadchanged_21',['OnVadChanged',['../classWhisper_1_1Utils_1_1MicrophoneRecord.html#aec1b2ba25187ada2ae0de09fbb6a4da0',1,'Whisper::Utils::MicrophoneRecord']]]
+];
