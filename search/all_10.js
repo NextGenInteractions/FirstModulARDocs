@@ -1,7 +1,7 @@
 var searchData=
 [
   ['object_0',['Object',['../CommonHand_8cs.html#aef19bab18b9814edeef255c43e4f6bbc',1,'CommonHand.cs']]],
-  ['object_20detection_1',['FMAR Object Detection',['../md__2github_2workspace_2Packages_2FMAR_2ImageProcessing_2ObjectDetection_2readme.html',1,'']]],
+  ['object_20detection_1',['Object Detection',['../md__2github_2workspace_2Packages_2FMAR_2ImageProcessing_2ObjectDetection_2readme.html',1,'']]],
   ['object_20highlighting_2',['FMAR Object Highlighting',['../md__2github_2workspace_2Packages_2FMAR_2Utilities_2ObjectHighlighting_2readme.html',1,'']]],
   ['objectdetectionconstants_2ecs_3',['ObjectDetectionConstants.cs',['../ObjectDetectionConstants_8cs.html',1,'']]],
   ['occlusionshaderobject_4',['OcclusionShaderObject',['../classOcclusionShaderObject.html',1,'']]],
@@ -14,7 +14,7 @@ var searchData=
   ['oculusxrprovider_2ecs_11',['OculusXrProvider.cs',['../OculusXrProvider_8cs.html',1,'']]],
   ['of_20a_20pulse_20patient_12',['Load a Pulse Engine state from a previous instance of a Pulse patient.',['../md__2github_2workspace_2Packages_2FMAR_2ThirdParty_2PulsePhysiologyEngine_2Runtime_2README.html#autotoc_md49',1,'']]],
   ['of_20interest_13',['FMAR Points of Interest',['../md__2github_2workspace_2Packages_2FMAR_2Internal_2PointsOfInterest_2readme.html',1,'']]],
-  ['of_20interest_20widget_14',['of Interest Widget',['../md__2github_2workspace_2Packages_2FMAR_2UI_2WidgetPointsOfInterest_2readme.html',1,'Points of Interest (Widget)'],['../md__2github_2workspace_2Packages_2FMAR_2UI_2WidgetProcedures_2readme.html',1,'Points of Interest (Widget)']]],
+  ['of_20interest_20widget_14',['Points of Interest (Widget)',['../md__2github_2workspace_2Packages_2FMAR_2UI_2WidgetPointsOfInterest_2readme.html',1,'']]],
   ['of_20pulseengine_15',['Using a custom version/fork of PulseEngine?',['../md__2github_2workspace_2Packages_2FMAR_2ThirdParty_2PulsePhysiologyEngine_2Runtime_2README.html#autotoc_md57',1,'']]],
   ['offset_5fms_16',['offset_ms',['../structWhisper_1_1Native_1_1WhisperNativeParams.html#ae46ecd5ca182ef628e8fb99a914aa10a',1,'Whisper::Native::WhisperNativeParams']]],
   ['offsetms_17',['OffsetMs',['../classWhisper_1_1WhisperParams.html#a0ac183399179ba3da0f9964873e7e3de',1,'Whisper::WhisperParams']]],
@@ -118,7 +118,7 @@ var searchData=
   ['operator_20vector3_115',['operator Vector3',['../structSerializableVector3.html#a2dbc23bc4143e27ddb1eb76fe04c86eb',1,'SerializableVector3']]],
   ['options_116',['Options',['../classFMAR_1_1UI_1_1RadialMenu_1_1RadialMenu.html#ac1856772b17b4a02abceab4757ca77dc',1,'FMAR::UI::RadialMenu::RadialMenu']]],
   ['options_117',['options',['../classFMAR_1_1Internal_1_1Procedures_1_1BranchingPathStep.html#a01debf69a0e4dccd930cc439cd5e6a1f',1,'FMAR.Internal.Procedures.BranchingPathStep.options'],['../classFMAR_1_1UI_1_1RadialMenu_1_1RadialMenuOptionsSet.html#a6e61f306bcd3cadbd975a57be17ecadb',1,'FMAR.UI.RadialMenu.RadialMenuOptionsSet.options']]],
-  ['options_20sets_118',['Creating new Options Sets',['../md__2github_2workspace_2Packages_2FMAR_2UI_2RadialMenu_2readme.html#autotoc_md86',1,'']]],
+  ['options_20sets_118',['Creating new Options Sets',['../md__2github_2workspace_2Packages_2FMAR_2UI_2RadialMenu_2readme.html#autotoc_md84',1,'']]],
   ['opus_2ecs_119',['Opus.cs',['../Opus_8cs.html',1,'']]],
   ['opus_5fencodedecode_5ffile_5ftest_120',['Opus_EncodeDecode_File_Test',['../classOpusEncodingDecodingTests.html#ab21ea15ac61a50044423d1281054dc8e',1,'OpusEncodingDecodingTests']]],
   ['opus_5fencodedecode_5flength_5ftest_121',['Opus_EncodeDecode_Length_Test',['../classOpusEncodingDecodingTests.html#a0746ea10a03c2457f973a0511b28d626',1,'OpusEncodingDecodingTests']]],

@@ -12,6 +12,6 @@ var searchData=
   ['controls_20widget_9',['Fire Controls (Widget)',['../md__2github_2workspace_2Packages_2FMAR_2UI_2WidgetFireControls_2readme.html',1,'']]],
   ['core_10',['FMAR Demo Core',['../md__2github_2workspace_2Packages_2FMAR_2Demos_2DemoCore_2readme.html',1,'']]],
   ['core_20package_11',['FMAR Core Package',['../md__2github_2workspace_2Packages_2FMAR_2Core_2readme.html',1,'']]],
-  ['cpr_20trainer_20widget_12',['CPR Trainer (Widget)',['../md__2github_2workspace_2Packages_2FMAR_2UI_2WidgetCprTrainer_2readme.html',1,'']]],
+  ['cpr_20trainer_20widget_20deprecated_12',['CPR Trainer (Widget) (Deprecated)',['../md__2github_2workspace_2Packages_2FMAR_2UI_2WidgetCprTrainer_2readme.html',1,'']]],
   ['customcomponents_13',['(UI) CustomComponents',['../md__2github_2workspace_2Packages_2FMAR_2UI_2CustomComponents_2readme.html',1,'']]]
 ];

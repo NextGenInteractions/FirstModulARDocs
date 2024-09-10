@@ -101,12 +101,13 @@ $(function(){initNavTree('md__2github_2workspace_2Packages_2FMAR_2UI_2WidgetInsp
   <div class="headertitle"><div class="title">Inspector (Widget)</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p><a class="anchor" id="autotoc_md99"></a></p>
+<div class="textblock"><p><a class="anchor" id="autotoc_md97"></a></p>
 <p><img src="Documentation~/fmar.ui.widgets.inspector-widgetpreview.png" alt="Fire Controls Widget" class="inline"/></p>
-<p>The inspector widget provides a generic "inspector" that can be used to "inspect" things. For example, if a user clicks on a Point of Interest on the map, it could be used to show that Point of Interest's metadata, or if a user clicks on a squadmate's name in a list, it might show additional data about that squadmate.</p>
+<p>The inspector widget provides a generic "inspector" that can be used to "inspect" things. Note that this inspector is different from the inspector window which is used in the Unity Editor during development. Rather, this is an inspector used in the application during runtime, used by first responders to view information about an object.</p>
+<p>For example, if a user clicks on a Point of Interest on the map, it could be used to show that Point of Interest's metadata, or if a user clicks on a squadmate's name in a list, it might show additional data about that squadmate.</p>
 <p>In concept, this was imagined as a "universal" inspector, in the spirit of modularity. We wanted to leave the option open for developers to make customized inspector UIs for specific data types (e.g. a designated Point of Interest inspector to inspect Points of Interest), but in the event that scenario developers didn't want to add a ton of extra custom packages, this "universal" inspector can inspect any object or data type that implements the <code>IInspectable</code> interface.</p>
-<p>Objects that inherit from the <code>IInspectable</code> interface must provide a list of Inspector "widgets", small rows that contain discrete chunks of information. Each widget also provides an icon associated with it, and an optional link to be triggered if the widget is clicked. Apologies for the naming redundancy with these "widgets", since the term widget is also used to refer to a higher-level type of object.</p>
-<h1><a class="anchor" id="autotoc_md100"></a>
+<p>Objects that inherit from the <code>IInspectable</code> interface must provide a list of <code>Inspector Rows</code>, small discrete rows that contain chunks of information. Each row also provides an icon associated with it, and an optional link to be triggered if the row is clicked.</p>
+<h1><a class="anchor" id="autotoc_md98"></a>
 Setup</h1>
 <p>Reference the <em>How to setup a widget</em> section in the readme of the <code>Widgets</code> package. </p>
 </div></div><!-- contents -->

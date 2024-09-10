@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.12.0"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>FirstModulAR: CPR Trainer (Widget)</title>
+<title>FirstModulAR: CPR Trainer (Widget) (Deprecated)</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -98,19 +98,19 @@ $(function(){initNavTree('md__2github_2workspace_2Packages_2FMAR_2UI_2WidgetCprT
 </div>
 
 <div><div class="header">
-  <div class="headertitle"><div class="title">CPR Trainer (Widget)</div></div>
+  <div class="headertitle"><div class="title">CPR Trainer (Widget) (Deprecated)</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p><a class="anchor" id="autotoc_md91"></a></p>
+<div class="textblock"><p><a class="anchor" id="autotoc_md89"></a></p>
 <p><img src="Documentation~/fmar.ui.widgets.cprtrainer-widgetPreview.png" alt="image" class="inline"/></p>
 <p>This widget was created for a concept/experiment that didn't necessarily pan out. The idea was to give real-time performance analysis and feedback to a user administering CPR. The widget also contains visualizations showing how much force is being applied &ndash; if the bar doesn't reach the green area, it's not enough force, and if it goes past the green into the red area, it's too much force.</p>
 <p>We even hotwired a cheap scale from Amazon and hooked it up to a Raspberry-Pi-type single board computer so we could network the force being applied to it to provide values to this widget. It all actually worked.</p>
 <p>The idea was that you could use something like this for training purposes, or if it worked well enough, to give real-time performance analysis during live operations.</p>
 <p>We even discovered that you can run a Pulse instance, put it in a state of cardiac arrest, and then give it highly-granular moment-to-moment "CPR compression force" events to simulate at a bodily level whether the CPR is working. The vitals figures at the top are associated with a Pulse instance.</p>
 <p>As you can see there are a lot of ideas here. We didn't end up showcasing any of these seriously, but there are some interesting concepts that might be worth exploring further at some point.</p>
-<h1><a class="anchor" id="autotoc_md92"></a>
+<h1><a class="anchor" id="autotoc_md90"></a>
 Setup</h1>
-<p>Without the prototype scale we hotwired, it will be hard for anyone to use this the way it was actually intended to be used. The package is more or less just here in case anyone wants to look over how we did things. </p>
+<p>Without the prototype scale we hotwired, it will be hard for anyone to use this the way it was actually intended to be used. The package is more or less just here in case anyone wants to look over how we did things, as an example for how to implement their own physical interface. </p>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->
 </div><!-- doc-content -->

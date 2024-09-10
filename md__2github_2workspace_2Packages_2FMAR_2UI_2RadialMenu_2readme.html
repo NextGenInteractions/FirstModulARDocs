@@ -101,17 +101,18 @@ $(function(){initNavTree('md__2github_2workspace_2Packages_2FMAR_2UI_2RadialMenu
   <div class="headertitle"><div class="title">Radial Menu</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p><a class="anchor" id="autotoc_md84"></a></p>
+<div class="textblock"><p><a class="anchor" id="autotoc_md82"></a></p>
 <p><img src="Documentation~/fmar.ui.radialmenu-radialmenu.png" alt="image" class="inline"/></p>
 <p>The <b>Radial Menu</b> is a type of gesture-driven interface that is designed to allow the user quick, almost-reflexive access to potentially dozens (or even hundreds) of distinct options. It was initially designed to solve the problem of how to grant the user access to many different distinct <code>Point of Interest</code> icons. The solution was to organize all of the different selectable POI icons into hierarchical menu structures, where more-commonly-used/less specific POIs are closer to the top of the hierarchy and more-rarely-used/more specific POIs are deeper in the hierarchy. So for example, the top level of a Radial Menu designed for POI selection could contain extremely broad categories of POI e.g. <em>Objectives</em>, <em>Hazards</em>, <em>Environment</em>, and <em>Miscellaneous</em>. Each category could contain its own subcategories, and so on.</p>
 <p>The idea is that, even if these hierarchies become very complex, you are able to pack a tremendous density of selectable options into a very small user space. And best of all, since the input is extremely gestural, the idea is that users would commit frequently-used-options to muscle memory, allowing them to execute those options without even having to pay close visual attention to the menu.</p>
-<h1><a class="anchor" id="autotoc_md85"></a>
+<h1><a class="anchor" id="autotoc_md83"></a>
 Setup</h1>
+<p>Note that the <code>Radial Menu</code> is dependent on the <code>Canvas Interactions</code> system, and a <code>Canvas Interactions</code> object must be present in the same scene as the <code>Radial Menu</code> for the menu to work.</p>
 <p>Drag the <code>Radial Menu</code> prefab into the root level of your scene hierarchy.</p>
 <p><img src="Documentation~/fmar.ui.radialmenu-scenehierarchy.png" alt="image" class="inline"/></p>
 <p>In the Inspector, drag a <code>Radial Menu Options Set</code> into the <code>Options</code> field of the <code>Radial Menu</code> component.</p>
 <p><img src="Documentation~/fmar.ui.radialmenu-component.png" alt="image" class="inline"/></p>
-<h1><a class="anchor" id="autotoc_md86"></a>
+<h1><a class="anchor" id="autotoc_md84"></a>
 Creating new Options Sets</h1>
 <p>You can create your own unique radial menu hierarchies by creating a new <code>Radial Menu Options Set</code>, then having the <code>Radial Menu</code> component reference it as described in the Setup process above.</p>
 <p>Right click anywhere in the Project File Explorer window, and select <code>Create &gt; <a class="el" href="namespaceFMAR.html">FMAR</a> &gt; Radial Menu Options Set</code>.</p>

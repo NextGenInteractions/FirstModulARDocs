@@ -102,7 +102,7 @@ $(function(){initNavTree('md__2github_2workspace_2Packages_2FMAR_2ImageProcessin
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><p><a class="anchor" id="autotoc_md22"></a></p>
-<p>The <a class="el" href="namespaceFMAR.html">FMAR</a> Image To Text package is a simple utility that can allows usage of EasyOCR and Tesseract image to text processing within Unity. For a similar but more advanced use case utilizing YOLO and EasyOCR, look at the LicensePlateRecognition package. The package includes:</p>
+<p>The <a class="el" href="namespaceFMAR.html">FMAR</a> Image To Text package is a simple utility that can allows usage of <a href="https://github.com/JaidedAI/EasyOCR">EasyOCR</a> and <a href="https://pypi.org/project/pytesseract/">Tesseract</a> image to text processing within Unity. For a similar but more advanced use case utilizing <a href="https://huggingface.co/Ultralytics">YOLO</a> and <a href="https://github.com/JaidedAI/EasyOCR">EasyOCR</a>, look at the LicensePlateRecognition package. The package includes:</p>
 <ul>
 <li><b>EasyOCR + Python Test Scripts:</b> A Python-based EasyOCR detection system was prototryped within this package, but was not hooked up to Unity. For this package, Tesseract was used for Image to Text. For an example of how to do image to text with a full Unity Pipeline, see the LicensePlateRecognition package.</li>
 <li><b>Tesseract Camera To Text Script</b> A entirely C# based prototype of image to text functionality. This solution does not require a python instance to run, and will network the client's camera data to the unity server to be processed using Tesseract, Tesseract output will be printed to the Unity console. </li>

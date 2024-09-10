@@ -103,7 +103,13 @@ $(function(){initNavTree('md__2github_2workspace_2Packages_2FMAR_2UI_2AirHud_2re
 <div class="contents">
 <div class="textblock"><p><a class="anchor" id="autotoc_md65"></a></p>
 <p><img src="Documentation~/fmar.ui.airhud-airled.png" alt="image" class="inline"/></p>
-<p>The Air LED is a HUD element that stays rigidly affixed to the user's point of view, showing a small colored circle in the bottom-left corner of the user's view. The color represents how much air remains in the local client of instance of ClientAirBroadcaster.</p>
+<p>The Air LED is a HUD element that stays rigidly affixed to the user's point of view, showing 4 small, colored circles in the bottom-left corner of the user's view. The 4 circles, which disappear from right to left, represent how much air remains in the local client of instance of ClientAirBroadcaster.</p><ul>
+<li>If all 4 circles are lit, remaining air is above 75%.</li>
+<li>If the green circle is absent (3 remain lit) remaining air is above 50%.</li>
+<li>If the yellow circle is absent (2 remain lit) remaining air is above 25%.</li>
+<li>If the second rid circle is absent (only 1 remains lit) remaining air is above 0%, but below 25%.</li>
+<li>If all 4 circles are absent, air is completely depleted.</li>
+</ul>
 <h1><a class="anchor" id="autotoc_md66"></a>
 Setup</h1>
 <p>Drag the <code>AirLED</code> prefab anywhere into the root level of the scene.</p>

@@ -102,7 +102,12 @@ $(function(){initNavTree('md__2github_2workspace_2Packages_2FMAR_2Comms_2Vitals_
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><p><a class="anchor" id="autotoc_md6"></a></p>
-<p>The <a class="el" href="namespaceFMAR.html">FMAR</a> Vitals package provides the backend functionality of the vitals systems. Vitals are based on Pulse, and have been built primarily as a wrapper around the pulse engine providing networking functionality, and a generic interface allowing future expansion of the system to utilize additional providers other than the Pulse engine. Vitals utilize a pattern of having a "broadcaster" source object, with various "observer" objects processing the data from the source. In addition, this package provides functionality to mark "thresholds" for various vitals, so that when these thresholds are passed, audiovisual feedback can be given to networked users signaling that something may be wrong with the vital data. An example use case would be a notification that a monitored patient's vital signs (say, blood oxygen concentration) has dipped below normal levels, prompting the first responder to check out the situation. </p>
+<p>The <a class="el" href="namespaceFMAR.html">FMAR</a> Vitals package provides the backend functionality of the vitals systems. Vitals are based on the Pulse Physiology Engine, and have been built to serve a few purposes:</p><ul>
+<li>Provide a wrapper around the Pulse engine, allowing it to be run and accessed in the Unity process</li>
+<li>Provide networking functionality of simulated vitals</li>
+<li>Provie a generic interface for 'VitalsProviders', allowing future expansion of the system to utilize additional providers other than the Pulse engine.</li>
+</ul>
+<p>Vitals utilize a pattern of having a "broadcaster" source object, with various "observer" objects processing the data from the source. In addition, this package provides functionality to mark "thresholds" for various vitals, so that when these thresholds are passed, audiovisual feedback can be given to networked users signaling that something may be wrong with the vital data. An example use case would be a notification that a monitored patient's vital signs (say, blood oxygen concentration) has dipped below normal levels, prompting the first responder to check out the situation. </p>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->
 </div><!-- doc-content -->

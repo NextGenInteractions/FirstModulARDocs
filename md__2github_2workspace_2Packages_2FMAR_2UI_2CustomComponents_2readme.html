@@ -101,10 +101,10 @@ $(function(){initNavTree('md__2github_2workspace_2Packages_2FMAR_2UI_2CustomComp
   <div class="headertitle"><div class="title">(UI) CustomComponents</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p><a class="anchor" id="autotoc_md71"></a></p>
-<p>Custom implementation of a UI button, implementing interfaces for Unity input system event handlers (<code>IPointerDownHandler</code>, <code>IPointerUpHandler</code>, <code>IPointerEnterHandler</code>, and <code>IPointerExitHandler</code>), and directly integrated with <code>BuddyHUD</code>'s <code>XrInputModule</code>.</p>
+<div class="textblock"><p><a class="anchor" id="autotoc_md69"></a></p>
+<p>Custom implementation of a UI button, which is directly integrated to work with <code>Canvas Interactions</code> package's <code>XrInputModule</code>.</p>
 <p>Very similar to the built-in Unity UI <code>Button</code> component, but since we implement it ourselves, we can define our own logic for when the button "press" event should occur. By default the Unity default button requires a press and a release. We wanted to have control over those events, allowing for the option for the button to "trigger" just on-press, for example.</p>
-<p>Also contains some convenient features like adding built-in sound effects on button mouseover and press, as well as dynamic animations on mouseover and press that work with each of <code>BuddyHUD</code>'s input modes (touch screen mode and raycast mode).</p>
+<p>This package also contains some convenient features like adding built-in sound effects on button mouseover and press, as well as dynamic animations on mouseover and press that work with each of the <code>Canvas Interaction</code> objects's input modes (touch screen mode and raycast mode).</p>
 <p><img src="Documentation~/fmar.ui.customcomponents-uiCustomComponents_example.png" alt="image" class="inline"/></p>
 <p>As an example &ndash; each entry in the <code>Points of Interest</code> widget above contains a CustomComponents <code>Button</code> component. For that matter, almost every button in all of our widgets should be using this specific <code>Button</code> component. </p>
 </div></div><!-- contents -->

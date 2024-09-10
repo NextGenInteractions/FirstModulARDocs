@@ -101,9 +101,10 @@ $(function(){initNavTree('md__2github_2workspace_2Packages_2FMAR_2UI_2PeripheryF
   <div class="headertitle"><div class="title">FMAR Periphery Fader</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p><a class="anchor" id="autotoc_md80"></a></p>
+<div class="textblock"><p><a class="anchor" id="autotoc_md78"></a></p>
 <p>The Periphery Fader package handles handles fading effects on the periphery based on notification urgency levels. When a client notification is received, a semi-transparent pulsing flash of color is displayed across the entirety of the user's field of view, with differing colors based on the urgency of the nofification received. This allows the user to be aware of notifications even in noisy environments.</p>
-<h1><a class="anchor" id="autotoc_md81"></a>
+<p>You may have noticed that this flash of fading color is displayed across the entirety of the user's field of view, rather than just the periphery of their vision, as one would expect based on the pacakage's name. This was indeed the original intention of this package. However, simplying displaying an empty <code>Image</code> was the path of least resistance, and other, more-pressing features took priority over properly creating some kind of texture or shader that would only display the color around the user's periphery.</p>
+<h1><a class="anchor" id="autotoc_md79"></a>
 Setup</h1>
 <p>You will need an <code><a class="el" href="namespaceFMAR.html">FMAR</a> Core Rig</code> setup in the scene. Drag the <code>PeripheryFader</code> prefab into the hierarchy as a child of the rig.</p>
 <p><img src="Documentation~/fmar.ui.peripheryfader-setup.png" alt="image" class="inline"/> </p>

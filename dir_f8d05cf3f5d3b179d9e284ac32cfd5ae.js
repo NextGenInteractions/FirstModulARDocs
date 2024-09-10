@@ -2,7 +2,6 @@ var dir_f8d05cf3f5d3b179d9e284ac32cfd5ae =
 [
     [ "AirGauge", "dir_6303c511389ab24d35e5bd5bb7ce2070.html", "dir_6303c511389ab24d35e5bd5bb7ce2070" ],
     [ "AirHud", "dir_afb12a3e901aa35f784579e28c01dad2.html", "dir_afb12a3e901aa35f784579e28c01dad2" ],
-    [ "BuddyHUD", "dir_9fd984b49e998aaf7a97f93355ceb456.html", null ],
     [ "CanvasInteractions", "dir_b969e9432885e4c75f348b7f63a7502c.html", "dir_b969e9432885e4c75f348b7f63a7502c" ],
     [ "CustomComponents", "dir_d67177b7f33396e94f888e8d427e9806.html", "dir_d67177b7f33396e94f888e8d427e9806" ],
     [ "HUDBuddy", "dir_92201522962b81c5959d210c91ef965c.html", "dir_92201522962b81c5959d210c91ef965c" ],

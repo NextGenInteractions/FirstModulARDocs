@@ -101,14 +101,14 @@ $(function(){initNavTree('md__2github_2workspace_2Packages_2FMAR_2UI_2WidgetMap_
   <div class="headertitle"><div class="title">Map (Widget)</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p><a class="anchor" id="autotoc_md102"></a></p>
+<div class="textblock"><p><a class="anchor" id="autotoc_md100"></a></p>
 <p><img src="Documentation~/fmar.ui.widgets.map-widgetPreview.png" alt="image" class="inline"/></p>
 <p>The map widget provides a map of the environment, including information about all known Points of Interest, as well as not-so-appropriately-named <code>Barriers</code>, which are 3D-ish blocks in the environment that are populated by the 3D scan of the local room provided by Meta Quest's space setup feature.</p>
 <p>You can zoom in and out of the map using either the [+] and [-] buttons, or the slide gesture.</p>
 <p>The map has some intelligent behavior for handling Point of Interest "collisions", or cases where two POIs would be drawn over each other. In such cases, the POI with the higher "scope radius" is drawn. Also, POIs where the "observation radius" of the map is smaller than the "scope radius" of the POI are not drawn &ndash; they are only drawn until the map zooms out far enough. The idea is that it doesn't make sense to draw the POI for an environment when you are viewing a subsection of that environment. Only when you zoom out far enough to see the "location" as a whole does the POI appear.</p>
 <p>The overall intention behind all this logic is to, at any given zoom level, give the user a map of the environment that is logical/meaningful to the scope they are currently viewing. So if you're looking at a map of the entire United States of America, you won't see a POI for a single hot dog stand in Cincinatti.</p>
 <p>Currently the map is constrained so that the user is always at the center of the map. A future developer may wish to add the ability to pan around.</p>
-<h1><a class="anchor" id="autotoc_md103"></a>
+<h1><a class="anchor" id="autotoc_md101"></a>
 Setup</h1>
 <p>Reference the <em>How to setup a widget</em> section in the readme of the <code>Widgets</code> package. </p>
 </div></div><!-- contents -->
